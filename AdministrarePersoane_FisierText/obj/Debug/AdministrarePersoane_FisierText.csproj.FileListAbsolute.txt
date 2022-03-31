@@ -1,0 +1,9 @@
+C:\Users\adina\Desktop\piu\AdministrarePersoane_FisierText\bin\Debug\AdministrarePersoane_FisierText.dll
+C:\Users\adina\Desktop\piu\AdministrarePersoane_FisierText\bin\Debug\AdministrarePersoane_FisierText.pdb
+C:\Users\adina\Desktop\piu\AdministrarePersoane_FisierText\bin\Debug\APersoana.dll
+C:\Users\adina\Desktop\piu\AdministrarePersoane_FisierText\bin\Debug\APersoana.pdb
+C:\Users\adina\Desktop\piu\AdministrarePersoane_FisierText\obj\Debug\AdministrarePersoane_FisierText.csproj.AssemblyReference.cache
+C:\Users\adina\Desktop\piu\AdministrarePersoane_FisierText\obj\Debug\AdministrarePersoane_FisierText.csproj.CoreCompileInputs.cache
+C:\Users\adina\Desktop\piu\AdministrarePersoane_FisierText\obj\Debug\AdministrarePersoane_FisierText.csproj.CopyComplete
+C:\Users\adina\Desktop\piu\AdministrarePersoane_FisierText\obj\Debug\AdministrarePersoane_FisierText.dll
+C:\Users\adina\Desktop\piu\AdministrarePersoane_FisierText\obj\Debug\AdministrarePersoane_FisierText.pdb

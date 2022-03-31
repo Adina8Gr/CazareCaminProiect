@@ -1,0 +1,6 @@
+C:\Users\adina\Desktop\piu\ACamin\bin\Debug\ACamin.dll
+C:\Users\adina\Desktop\piu\ACamin\bin\Debug\ACamin.pdb
+C:\Users\adina\Desktop\piu\ACamin\obj\Debug\ACamin.csproj.AssemblyReference.cache
+C:\Users\adina\Desktop\piu\ACamin\obj\Debug\ACamin.csproj.CoreCompileInputs.cache
+C:\Users\adina\Desktop\piu\ACamin\obj\Debug\ACamin.dll
+C:\Users\adina\Desktop\piu\ACamin\obj\Debug\ACamin.pdb

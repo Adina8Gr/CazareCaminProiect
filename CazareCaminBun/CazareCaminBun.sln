@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CazareCaminBun", "CazareCaminBun.csproj", "{C8118829-035F-44FC-A23A-0C553EB87C63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACamin", "..\ACamin\ACamin.csproj", "{4E0561D9-F82D-4453-A2D4-55BF7FD6B4DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACamera", "..\ACamera\ACamera.csproj", "{8C66636E-AFB2-40C5-ADFF-B417AB3BA988}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APersoana", "..\APersoana\APersoana.csproj", "{D95C9DB1-BA8C-4EB0-87DE-499F1605713C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdministrarePersoane_FisierText", "..\AdministrarePersoane_FisierText\AdministrarePersoane_FisierText.csproj", "{1F36B597-68DE-4CD8-9436-F841641CD674}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdministrareCamere_FisierText", "..\AdministrareCamere_FisierText\AdministrareCamere_FisierText.csproj", "{F7E5610E-FFED-4C94-A8E4-B2230695E08C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8118829-035F-44FC-A23A-0C553EB87C63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8118829-035F-44FC-A23A-0C553EB87C63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8118829-035F-44FC-A23A-0C553EB87C63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8118829-035F-44FC-A23A-0C553EB87C63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E0561D9-F82D-4453-A2D4-55BF7FD6B4DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E0561D9-F82D-4453-A2D4-55BF7FD6B4DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E0561D9-F82D-4453-A2D4-55BF7FD6B4DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E0561D9-F82D-4453-A2D4-55BF7FD6B4DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C66636E-AFB2-40C5-ADFF-B417AB3BA988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C66636E-AFB2-40C5-ADFF-B417AB3BA988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C66636E-AFB2-40C5-ADFF-B417AB3BA988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C66636E-AFB2-40C5-ADFF-B417AB3BA988}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D95C9DB1-BA8C-4EB0-87DE-499F1605713C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D95C9DB1-BA8C-4EB0-87DE-499F1605713C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D95C9DB1-BA8C-4EB0-87DE-499F1605713C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D95C9DB1-BA8C-4EB0-87DE-499F1605713C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F36B597-68DE-4CD8-9436-F841641CD674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F36B597-68DE-4CD8-9436-F841641CD674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F36B597-68DE-4CD8-9436-F841641CD674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F36B597-68DE-4CD8-9436-F841641CD674}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7E5610E-FFED-4C94-A8E4-B2230695E08C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E5610E-FFED-4C94-A8E4-B2230695E08C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E5610E-FFED-4C94-A8E4-B2230695E08C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E5610E-FFED-4C94-A8E4-B2230695E08C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA4C391B-CE9A-48D8-81F9-EE4C0637F40F}
+	EndGlobalSection
+EndGlobal

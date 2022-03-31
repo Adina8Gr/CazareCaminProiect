@@ -1,0 +1,6 @@
+C:\Users\adina\Desktop\piu\APersoana\bin\Debug\APersoana.dll
+C:\Users\adina\Desktop\piu\APersoana\bin\Debug\APersoana.pdb
+C:\Users\adina\Desktop\piu\APersoana\obj\Debug\APersoana.csproj.AssemblyReference.cache
+C:\Users\adina\Desktop\piu\APersoana\obj\Debug\APersoana.csproj.CoreCompileInputs.cache
+C:\Users\adina\Desktop\piu\APersoana\obj\Debug\APersoana.dll
+C:\Users\adina\Desktop\piu\APersoana\obj\Debug\APersoana.pdb

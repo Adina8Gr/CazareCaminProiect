@@ -1,0 +1,17 @@
+C:\Users\adina\Desktop\piu\CazareCaminBun\bin\Debug\CazareCaminBun.exe.config
+C:\Users\adina\Desktop\piu\CazareCaminBun\bin\Debug\CazareCaminBun.exe
+C:\Users\adina\Desktop\piu\CazareCaminBun\bin\Debug\CazareCaminBun.pdb
+C:\Users\adina\Desktop\piu\CazareCaminBun\bin\Debug\ACamera.dll
+C:\Users\adina\Desktop\piu\CazareCaminBun\bin\Debug\ACamin.dll
+C:\Users\adina\Desktop\piu\CazareCaminBun\bin\Debug\APersoana.dll
+C:\Users\adina\Desktop\piu\CazareCaminBun\bin\Debug\ACamera.pdb
+C:\Users\adina\Desktop\piu\CazareCaminBun\bin\Debug\ACamin.pdb
+C:\Users\adina\Desktop\piu\CazareCaminBun\bin\Debug\APersoana.pdb
+C:\Users\adina\Desktop\piu\CazareCaminBun\obj\Debug\CazareCaminBun.csproj.AssemblyReference.cache
+C:\Users\adina\Desktop\piu\CazareCaminBun\obj\Debug\CazareCaminBun.csproj.SuggestedBindingRedirects.cache
+C:\Users\adina\Desktop\piu\CazareCaminBun\obj\Debug\CazareCaminBun.csproj.CoreCompileInputs.cache
+C:\Users\adina\Desktop\piu\CazareCaminBun\obj\Debug\CazareCaminBun.csproj.CopyComplete
+C:\Users\adina\Desktop\piu\CazareCaminBun\obj\Debug\CazareCaminBun.exe
+C:\Users\adina\Desktop\piu\CazareCaminBun\obj\Debug\CazareCaminBun.pdb
+C:\Users\adina\Desktop\piu\CazareCaminBun\bin\Debug\AdministrarePersoane_FisierText.dll
+C:\Users\adina\Desktop\piu\CazareCaminBun\bin\Debug\AdministrarePersoane_FisierText.pdb
